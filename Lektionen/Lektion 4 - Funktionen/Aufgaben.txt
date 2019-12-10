@@ -1,0 +1,23 @@
+1. ausgaben.py
+	--> Dieses Programm fragt dich nach deinem Namen. Nach der Eingabe wirst du in Minecraft gegrüßt
+	--> Schreibe eine Funktion mit dem Namen "ausgabe".
+		-> Diese Funktion soll einen Parameter empfangen (einen Namen) und dann die ihr übergebene Person im Spiel grüßen
+
+2. positionSpieler.py
+	--> Dieses Programm ermittelt die Position des Spielers und gibt diese in Minecraft aus
+	--> Erstelle in diesem Programm zwei Funktionen
+	--> Die erste Funktion soll die Position des Avatars ermitteln und alle drei Koordinaten zurückgeben
+		Nenne diese Funktion getPlayersPosition
+	--> Die zweite Funktion soll die erste Funktion aufrufen und dann die Standortdaten in Minecraft ausgeben
+		Nenne diese Funktion callPlayersPosition
+	--> Rufe die zweite Funktion in einer Endlosschleife auf
+
+3. blockpruefer.py
+	--> Dieses Programm ist noch leer
+	--> Dieses Programm importiert die erste Funktion aus positionSpieler mit dem import-Befehl
+		-> Durch den Import wird der Code aus positionSpieler mit ausgeführt
+		-> Kommentiere in positionSpieler alle Zeilen aus, mit Ausnahme der Importe und der Funktionserstellungen
+	--> Schreibe eine Funktion, welche die Blocknummer UNTER deinem Avatar prüft und diese zurück gibt
+	--> Schreibe eine weitere Funktion, welche deine Blockprüffunktion aufruft und dann diese Nummer als Text in Minecraft ausgibt
+	--> Verändere deine Ausgabefunktion so, dass anstatt der Blocknummer, der Name des Blocks ausgegeben wird
+		--> TIPP: Lies dazu das Skript zugriff.py

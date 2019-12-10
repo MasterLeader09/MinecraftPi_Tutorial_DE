@@ -1,0 +1,10 @@
+1. MeinKraftKlasse.py
+	--> Die in diesem Skript erstellte Klasse besteht hat zwei Methoden
+	--> Die Methode __init__ ist der Konstuktor, welcher die Instanzen dieser Klasse definiert
+	--> Die Methode positionNeu kann die Positionsdaten deines Avatars nehmen und in einer Instanz der Klasse MeinKraft abspeichern
+	--> Erweitere die Klasse um Methoden, die ein Haus bauen können
+	--> Die Größe des Hauses und die Baumaterialien sollen erst beim ausführen der Methoden festgelegt werden
+
+	--> Iniziiere eine Instanz von MeinKraft
+	--> Baue mit Hilfe der von dir erstellten Methoden ein Haus
+	

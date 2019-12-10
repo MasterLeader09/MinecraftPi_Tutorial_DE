@@ -1,0 +1,13 @@
+1. hoehenSpiel.py
+--> In diesem Programm wird eine Liste mit zwei Werten erstellt
+--> Erweitere das Programm so, dass innerhalb von einer Minute 60 mal die Position deines Spielers ermittelt wird
+--> Erweitere das Programm so, dass an die 0te Stelle der Liste die niedrigste Höhendate gespeichert wird, welche innerhalb der Minute gemessen wird
+--> Erweitere das Programm so, dass an die 1te Stelle der Liste die höchste Höhendate gespeichert wird, welche innerhalb der Minute gemessen wird
+--> Gebe nach Ablauf der Messung die Ergebnisse im Spiel aus
+
+2. hitScore.py
+--> Schreibe ein Programm, welches misst, wie viele Blöcke du in einer Minute berührt hast
+	Wichtig: Es werden nur Blöcke gezählt, die du mit deinem Schwert und einem Treffer mit der rechten Maustaste getroffen hast.
+	Wichtig: Luftblöcke werden nicht gezählt
+--> Tipp: verwende hierzu die Funktion pollBlockHits, welche in den Minecraftfunktionen beschrieben ist
+

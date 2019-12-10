@@ -1,0 +1,12 @@
+1. baueEineTreppe.py
+	--> Schreibe das Programm so um, dass neben deinem Avatar eine 10 Stufen hohe Treppe gebaut wird
+
+2. verfolgeAvatarMitWasser.py
+	--> Lass deinen Avatar von Wasser verfolgen, bis du das Programm mit der Tastatur (strg + c) abbrichst
+	--> TIPP: Die Blocknummer von Wasser ist 8
+	
+3. teleportiereAvatarZurZufallsposition.py
+	--> Dieses Programm erstellt aktuell drei Zufallszahlen, welche als neue Positionsdaten für deinen Avatar verwendet werden
+	--> Verändere das Programm so, dass dein Avatar nicht unter die Erde teleportiert werden kann
+	--> Gebe nach jeder erfolgreichen Teleportation aus, wie häufig du dich bereits teleportiert hast
+
