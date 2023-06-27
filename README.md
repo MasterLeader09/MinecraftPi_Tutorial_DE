@@ -15,3 +15,10 @@ Dieses Repository wurde für die Minecraft Pi Edition entwicklet. Diese ist in d
 ## Der Aufbau
 
 Der Ordner **[Allgemeine Erklaerungen](https://github.com/MasterLeader09/MinecraftPi_Tutorial_DE/tree/master/Allgemeine%20Erklaerungen)** behandelt alle grundsätzlichen Fähigkeiten. Hierzu gehören Befehle für die Benutzung des Terminals unter Linux und für die Nutzung von Git, sowie Grundlagen zu Python und alle verfügbaren Minecraft-Pythonfunktionen. Alle diese Fähigkeiten werden in eigenen Unterkapiteln behandelt. Der Python- und der Minecraftordner sind dabei als Nachschlagewerke gedacht.
+
+Der Ordner **[Lektionen](https://github.com/MasterLeader09/MinecraftPi_Tutorial_DE/tree/master/Lektionen)** beinhaltet Aufgaben zu verschiedenen Programmierthemen. Die Aufgaben sind so konzipiert, dass neben der Verwendung der Minecraftfunktionen keine weiteren Libaries verwendet werden müssen. Es bietet sich an, die Aufgaben der Reihenfolge nach zu lösen.
+
+---
+
+## Der Autor und Support
+Dieses Repository wurde vom wissenschaftlichen Mitarbeiter der **[Hochschule Hamm-Lippstadt](https://www.hshl.de/)** Nils Reuter erstellt. Bei Fragen rund um das Repository erreichen Sie mich per Mail unter **nilshendrik.reuter@hshl.de**
