@@ -1,14 +1,14 @@
-# **MinecraftPi Tutorial DE**
+# **MinecraftPi Tutorial DE** :flag_germay:
 
 ## Darum geht es
 
-Dieses Repository dient dem Lernen der Programmiersprache Python. Die Motivation hierbei besteht, dass die Programme in Minecraft ausgeführt werden. Dies ist eine attraktive Alternative zu Konsolenanwendungen, welche in der Regel als erste Programme geschrieben werden.
+Dieses Repository dient dem Lernen der Programmiersprache :sanke: Python. Die Motivation hierbei besteht, dass die Programme in Minecraft ausgeführt werden. Dies ist eine attraktive Alternative zu Konsolenanwendungen, welche in der Regel als erste Programme geschrieben werden.
 
 ---
 
 ## Das Setup
 
-Dieses Repository wurde für die Minecraft Pi Edition entwicklet. Diese ist in der Vollversion der Linux Distribution Raspbian mit installiert. Raspbian wurde für den Raspberry Pi entwickelt. Entsprechend bitet es sich an einen Raspberry Pi zu verwenden. Die Modelle 3B und 3B+ wurden bei der Entwicklung dieses Repositories verwendet.
+Dieses Repository wurde für die Minecraft Pi Edition entwicklet. Diese ist in der Vollversion der :penguin: Linux Distribution Raspbian mit installiert. Raspbian wurde für den Raspberry Pi entwickelt. Entsprechend bitet es sich an einen Raspberry Pi zu verwenden. Die Modelle 3B und 3B+ wurden bei der Entwicklung dieses Repositories verwendet.
 
 ---
 
@@ -20,7 +20,7 @@ Der Ordner **[Lektionen](https://github.com/MasterLeader09/MinecraftPi_Tutorial_
 
 ---
 
-## Der Autor und Support
+## Der Autor und Support :face_with_monocle:
 Dieses Repository wurde vom wissenschaftlichen Mitarbeiter der **[Hochschule Hamm-Lippstadt](https://www.hshl.de/)** Nils Reuter erstellt. Bei Fragen rund um das Repository erreichen Sie mich per Mail unter **nilshendrik.reuter@hshl.de**
 
 ![Hochschule Hamm-Lippstadt](https://upload.wikimedia.org/wikipedia/commons/e/e5/HSHL_Logo.jpg "HSHL")
