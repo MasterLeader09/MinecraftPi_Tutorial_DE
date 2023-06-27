@@ -1,8 +1,8 @@
-# **MinecraftPi Tutorial DE** :flag_germay:
+# **MinecraftPi Tutorial DE** :flag_germay: 
 
 ## Darum geht es
 
-Dieses Repository dient dem Lernen der Programmiersprache :sanke: Python. Die Motivation hierbei besteht, dass die Programme in Minecraft ausgeführt werden. Dies ist eine attraktive Alternative zu Konsolenanwendungen, welche in der Regel als erste Programme geschrieben werden.
+Dieses Repository :apple: dient dem Lernen der Programmiersprache :sanke: Python. Die Motivation hierbei besteht, dass die Programme in Minecraft ausgeführt werden. Dies ist eine attraktive Alternative zu Konsolenanwendungen, welche in der Regel als erste Programme geschrieben werden.
 
 ---
 
