@@ -1,7 +1,7 @@
 **MinecraftPi Tutorial DE**
 
 ---
-
+{.tabset}
 ##Darum geht es
 
 Dieses Repository dient dem Lernen der Programmiersprache Python. Die Motivation hierbei besteht, dass die Programme in Minecraft ausgeführt werden. Dies ist eine attraktive Alternative zu Konsolenanwendungen, welche in der Regel als erste Programme geschrieben werden.
