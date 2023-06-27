@@ -1,4 +1,4 @@
-# **MinecraftPi Tutorial DE** :flag_germay: 
+# **MinecraftPi Tutorial DE** 🇩🇪
 
 ## Darum geht es
 
