@@ -22,3 +22,5 @@ Der Ordner **[Lektionen](https://github.com/MasterLeader09/MinecraftPi_Tutorial_
 
 ## Der Autor und Support
 Dieses Repository wurde vom wissenschaftlichen Mitarbeiter der **[Hochschule Hamm-Lippstadt](https://www.hshl.de/)** Nils Reuter erstellt. Bei Fragen rund um das Repository erreichen Sie mich per Mail unter **nilshendrik.reuter@hshl.de**
+
+![Hochschule Hamm-Lippstadt](https://de.m.wikipedia.org/wiki/Datei:HSHL-Logo.svg)
